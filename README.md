@@ -15,4 +15,4 @@ thymeleaf
 
 jackson
 
-use apache maven to do project management and comprehension tool
+use apache maven do project management and comprehension tool
