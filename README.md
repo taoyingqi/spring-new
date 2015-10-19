@@ -1,12 +1,12 @@
 # spring-new
 start a new spring project
 
-H2 #develop environment
+## develop environment
 IDE: IntelliJ IDEA 14.1
 
 JDK: jdk1.7.0_75
 
-H2 #Use open source project:
+## Use open source project:
 
 Spring IO platform
 
